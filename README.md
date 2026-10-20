@@ -1,0 +1,1 @@
+Employee salary analysis using Python, Pandas and Matplotlib.
